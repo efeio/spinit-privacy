@@ -1,1 +1,1 @@
-# verdict-privacy
+# SpinIt-privacy
