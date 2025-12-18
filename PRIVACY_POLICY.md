@@ -1,4 +1,4 @@
-# Privacy Policy for Verdict
+# Privacy Policy for SpinIt
 
 **Last Updated:** December 2025
 
